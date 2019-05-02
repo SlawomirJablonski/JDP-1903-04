@@ -2,7 +2,7 @@
 <p>Zadania zrealizowane przez uczestnika:</p>
 <ul>
 <li><a href="https://projects.kodilla.com/browse/JDP190304-4">
-JDP190304-4</a>&nbsp;&nbsp;&nbsp;~ OrderController - wstępna implementacja endpointów, status zadania "Done", "Project points": <strong>5</strong></li>
+JDP190304-4</a>&nbsp;&nbsp;&nbsp;~ Order Controller - wstępna implementacja endpointów, status zadania "Done", "Project points": <strong>5</strong></li>
 <li><a href="https://projects.kodilla.com/browse/JDP190304-13">
 JDP190304-13</a> ~ Encja Group - implementacja, status zadania "Done", "Project points": <strong>5</strong></li>
 <li><a href="https://projects.kodilla.com/browse/JDP190304-17">
